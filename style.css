@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+footer {
+    background-color: black;
+    color: black;
+}
+
+footer p {
+    background-color: white;
+}
+
+header a {
+    color: black;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+main img {
+    border-left: dotted 10px black;
+    margin: 30px;
+}
+
+.text {
+    border: solid 1px black ;
+    border-radius: 20px;
+    padding: 15px;
+}
